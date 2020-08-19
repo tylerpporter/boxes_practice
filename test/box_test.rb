@@ -1,6 +1,6 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require './box/lib/box.rb'
+require './lib/box.rb'
 
 class BoxTest < Minitest::Test
   def setup
